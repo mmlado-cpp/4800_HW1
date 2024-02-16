@@ -56,12 +56,6 @@ public class FileManagerDriver {
 
         app.delete(); // delete app folder
 
-        System.out.println();
-
-        root.print();
-
-        System.out.println();
-
         publicFolder.delete(); // delete public folder
 
         System.out.println();
